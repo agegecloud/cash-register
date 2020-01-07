@@ -1,10 +1,10 @@
 Looking for Linux Point of Sale (POS) printer driver for NCR-7167 Multifunction POS printer.  Below is the printer technical configuration.
 
 ==========================================================================
-# Manufacturer's Name:		  NCR Corporation			                      	 #
-# Model:			              NCR 7167-6011-9001			                     #
-# Printer's Name:		        NCR RealPOS™ 7167 Multifunction Printer      #
-# Company's website:		    https://www.ncr.com			                     #
+# Manufacturer's Name:		    NCR Corporation			                         	 #
+# Model:			                 NCR 7167-6011-9001			                        #
+# Printer's Name:		         NCR RealPOS™ 7167 Multifunction Printer      #
+# Company's website:		      https://www.ncr.com			                       #
 ==========================================================================
 
 
